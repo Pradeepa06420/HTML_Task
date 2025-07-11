@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="Stylesheet">
+</head>
+<body>
+    <header>
+    <div>
+        <nav>
+            <ul>
+               <li><a href="#About">About</a></li>
+               <li><a href="#Home">Home</a></li>
+               <li><a href="#Search">Search</a></li>
+               <li><a href="#Settings">Settings</a></li>
+               <li><a href="#More">More</a></li>
+            </ul>
+        </nav>
+    </div>  
+    </header>
+    <section>
+        <h1>We Design and Build Creative Brands</h1>
+        <p>That we provide you the best brand using our creativity in this website</p>
+        <button type="Click  to search">click to search</button>
+    </section> 
+    <section>
+        <h3>Clothing Branding</h3>
+        <p>All the clothing brand that avaliable on this website
+           we provide you the best services...
+        </p>
+        <p>Here to go</p>
+    </section>
+    <section>
+        <h2>SERVICES</h2>
+        <img src="" alt="">
+
+    </section>
+      
+
+    
+</body>
+</html>
